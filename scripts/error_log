@@ -1,0 +1,64 @@
+[12-Jun-2013 23:15:02 America/Denver] PHP Notice:  Undefined index: myusername in /home4/dbkgames/public_html/scripts/events.php on line 13
+[13-Jun-2013 08:29:58 America/Denver] PHP Notice:  Undefined variable: _SESSION_User in /home4/dbkgames/public_html/scripts/increaseattack.php on line 15
+[17-Jun-2013 17:54:16 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 23
+[17-Jun-2013 17:55:25 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 23
+[17-Jun-2013 17:55:28 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 23
+[17-Jun-2013 17:56:50 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 17:57:16 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 17:57:19 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 17:59:27 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:05:28 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:06:50 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:08:01 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:12:12 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:12:57 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:13:00 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:13:18 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:15:22 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:15:24 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:16:10 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:16:12 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:19:01 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:20:10 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:25:32 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:34:05 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:34:52 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:36:11 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:36:14 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:38:07 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:38:37 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:45:00 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:55:56 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 18:56:00 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/dbkgames/public_html/scripts/job101.php on line 5
+[17-Jun-2013 19:00:11 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 20
+[17-Jun-2013 19:01:25 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 21
+[17-Jun-2013 19:01:48 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 21
+[17-Jun-2013 19:02:38 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 20
+[17-Jun-2013 19:03:30 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 20
+[17-Jun-2013 19:04:03 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 20
+[17-Jun-2013 19:05:02 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home4/dbkgames/public_html/scripts/job101.php on line 19
+[17-Jun-2013 19:06:29 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home4/dbkgames/public_html/scripts/job101.php on line 19
+[17-Jun-2013 19:07:14 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 19
+[17-Jun-2013 19:08:54 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 19
+[17-Jun-2013 19:10:20 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 22
+[17-Jun-2013 19:12:17 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 26
+[17-Jun-2013 19:12:33 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 26
+[17-Jun-2013 19:16:51 America/Denver] PHP Notice:  Array to string conversion in /home4/dbkgames/public_html/scripts/job101.php on line 21
+[17-Jun-2013 19:17:18 America/Denver] PHP Notice:  Array to string conversion in /home4/dbkgames/public_html/scripts/job101.php on line 21
+[17-Jun-2013 19:21:27 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 25
+[17-Jun-2013 19:21:54 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 25
+[17-Jun-2013 19:22:28 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 24
+[17-Jun-2013 19:23:45 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 24
+[17-Jun-2013 19:25:16 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 28
+[17-Jun-2013 19:30:56 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 28
+[17-Jun-2013 19:32:44 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 28
+[17-Jun-2013 19:35:36 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 28
+[17-Jun-2013 19:36:07 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 28
+[17-Jun-2013 19:39:30 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 28
+[17-Jun-2013 19:40:57 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 28
+[17-Jun-2013 19:44:45 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/dbkgames/public_html/scripts/job101.php on line 28
+[17-Jun-2013 19:54:51 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/dbkgames/public_html/scripts/job101.php on line 37
+[17-Jun-2013 20:50:19 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/dbkgames/public_html/scripts/job101.php on line 39
+[17-Jun-2013 20:50:23 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/dbkgames/public_html/scripts/job101.php on line 39
+[17-Jun-2013 20:50:25 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/dbkgames/public_html/scripts/job101.php on line 39
+[17-Jun-2013 20:50:33 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/dbkgames/public_html/scripts/job101.php on line 39
